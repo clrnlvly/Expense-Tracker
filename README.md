@@ -5,7 +5,7 @@ A simple and elegant web-based expense tracker built with **HTML**, **CSS**, and
 ## 🔗 Live Demo  
 [🔗 View on GitHub Pages](https://clrnlvly.github.io/Expense-Tracker/)
 
-## Youtube: https://youtu.be/k3NDGlQGByc
+## Youtube: https://youtu.be/nT_tqXwyUww
 ---
 
 ## 🧰 Features
